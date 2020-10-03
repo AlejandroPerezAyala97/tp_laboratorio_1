@@ -14,7 +14,7 @@
 #include "arrayEmployees.h"
 #include "misfunciones.h"
 
-#define LEN 3
+#define LEN 1000
 #define TRUE 1
 #define FALSE 0
 
